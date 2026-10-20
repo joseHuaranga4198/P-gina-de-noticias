@@ -1,0 +1,5 @@
+=== CREDENCIALES DE DEMOSTRACIÓN ===
+Email: admin@noticias.local
+Contraseña: 5tXxRoKgjTkMH1sf
+URL Admin: http://localhost:8000/admin
+Generado: 2026-10-20 20:36:22
